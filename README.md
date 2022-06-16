@@ -5,5 +5,5 @@ Program asks user to guess a number between a set range of numbers, gives a numb
 HTML - for the structure
 (Skeleton) Css Framework - for the style 
 Javascript - validate user input
-
+linked here:) https://sadiquex.github.io/Number-Guesser/
 
